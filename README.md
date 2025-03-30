@@ -19,4 +19,4 @@ Develop a **Streamlit-based web app** that allows users to **upload plant leaf i
 - **Trained Models**  
 - **Project Report & User Guide**  
 
-This project applies **CNNs to real-world agriculture**, offering **farmers an automated, multilingual plant disease detection tool**. 🚀  
+This project applies **CNNs to real-world agriculture**, offering **farmers an automated, multilingual plant disease detection tool**.  
